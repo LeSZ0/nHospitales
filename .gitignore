@@ -1,0 +1,7 @@
+*.sqlite3
+*.pyc
+*.git
+*.pyo
+*db
+local_settings.py
+__pycache__
